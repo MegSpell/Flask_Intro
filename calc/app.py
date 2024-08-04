@@ -43,7 +43,7 @@ def do_div():
 
     return str(result)
 
-### PART TWO
+### FURTHER STUDY
 
 operators = {
         "add": add,
